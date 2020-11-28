@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 9d9d45f3fb0198c428a7e45ac37cd70d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7036600023937819812
+    second: Loto-grid-sprites_0
+  - first:
+      213: -2070049883727912176
+    second: Loto-grid-sprites_1
+  - first:
+      213: 3079546446903707317
+    second: Loto-grid-sprites_2
+  - first:
+      213: 8576522580633996189
+    second: Loto-grid-sprites_3
+  - first:
+      213: -7289959068717065208
+    second: Loto-grid-sprites_4
+  - first:
+      213: 529069688569217642
+    second: Loto-grid-sprites_5
+  - first:
+      213: 1370503370594686329
+    second: Loto-grid-sprites_6
+  - first:
+      213: -6368831547801196450
+    second: Loto-grid-sprites_7
+  - first:
+      213: 8420626130745667074
+    second: Loto-grid-sprites_8
+  - first:
+      213: -7802167235405898437
+    second: Loto-grid-sprites_9
+  - first:
+      213: -2496414355297385718
+    second: Loto-grid-sprites_10
+  - first:
+      213: 8109971248133712769
+    second: Loto-grid-sprites_11
+  - first:
+      213: 3652855912010036269
+    second: Loto-grid-sprites_12
+  - first:
+      213: 8098553057661329870
+    second: Loto-grid-sprites_13
+  - first:
+      213: 3358029980341429667
+    second: Loto-grid-sprites_14
+  - first:
+      213: 3624180544057425124
+    second: Loto-grid-sprites_15
+  - first:
+      213: 6700412193680254703
+    second: Loto-grid-sprites_16
+  - first:
+      213: 7577057922019479838
+    second: Loto-grid-sprites_17
+  - first:
+      213: 6629402557353496216
+    second: Loto-grid-sprites_18
+  - first:
+      213: -5026625655303623822
+    second: Loto-grid-sprites_19
+  - first:
+      213: 4242276715613918287
+    second: Loto-grid-sprites_20
+  - first:
+      213: -7994865465601471629
+    second: Loto-grid-sprites_21
+  - first:
+      213: -6320345622379807427
+    second: Loto-grid-sprites_22
+  - first:
+      213: -4759710970648724473
+    second: Loto-grid-sprites_23
+  - first:
+      213: -609316639172477191
+    second: Loto-grid-sprites_24
+  - first:
+      213: -3505973566627605161
+    second: Loto-grid-sprites_25
+  - first:
+      213: 499760107010166281
+    second: Loto-grid-sprites_26
+  - first:
+      213: -8004441298518821997
+    second: Loto-grid-sprites_27
+  - first:
+      213: -8791909211179315340
+    second: Loto-grid-sprites_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loto-grid-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 434
+        width: 713
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d78cf80e172960800000000000000
+      internalID: 7577057922019479838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 854
+        width: 157
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e0f18708e500c50800000000000000
+      internalID: 6629402557353496216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 865
+        width: 148
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b23c44996dd3ab0800000000000000
+      internalID: -5026625655303623822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 852
+        width: 150
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44141142389fda30800000000000000
+      internalID: 4242276715613918287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 853
+        width: 157
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b49c7b7388c0190800000000000000
+      internalID: -7994865465601471629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 853
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d3b50a42f9948a0800000000000000
+      internalID: -6320345622379807427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 679
+        width: 161
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf3f8171c12fdb0800000000000000
+      internalID: -4759710970648724473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 679
+        width: 158
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feb366beb54b87f0800000000000000
+      internalID: -609316639172477191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 681
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7559049dd97485fc0800000000000000
+      internalID: -3505973566627605161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 679
+        width: 132
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e80436b218fe600800000000000000
+      internalID: 499760107010166281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 679
+        width: 147
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393b1506c038ae090800000000000000
+      internalID: -8004441298518821997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loto-grid-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1018
+        width: 305
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0c2a672ddcf580800000000000000
+      internalID: -8791909211179315340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 651ba7ed91dbda348965480d82a2d028
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
